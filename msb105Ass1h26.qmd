@@ -28,15 +28,15 @@ I denne artikkelen vil derfor diskutere om reproduserbarhet er tilstrekkelig, el
 
 ## Litteraturgjennomgang
 
-Smarte synspunkt om emnet fra andre.
+For å vurdere om reproduserbarhet er tilstrekkelig alene, er det viktig å skille mellom reproduserbarhet, replikerbarhet og generaliserbarhet. Reproduserbarhet innebærer at et tidligere resultat skal kunne gjenskapes ved bruk av de samme dataene og analysemetodene[@goodman2016b]. Replikerbarhet innebærer at resultatet undersøkes ved hjelp av nye data, mens generaliserbarhet handler derimot på sin side om hvorvidt resultatene også gjelder i andre kontekster eller populasjoner[@bollen2015].
 
-Bruk minst 20 siteringer. Minst 5 må være nye relevante artikler om emnet som du har funnet selv.
+Reproduserbarhet er videre ikke nødvendig nok bare på grunnlag om at resultatet kan gjenskapes på bakgrunn med de samme dataene og metodene. Det sier derimot ingenting om resultatet holder når studien gjennomføres med enten nye data eller andre forhold[@klein2018b]. I tillegg er det viktig å vurdere om resultatene kan generaliseres til andre kontekster eller populasjoner, samt om studien faktisk måler det den har til hensikt å undersøke. Altså studiens validitet.
 
-Benytt begge siteringsmåter, dvs. «in-line» og på slutten av setningen. Prøv å variere siteringsteknikk for å få flyt i språket.
+Betydningen av replikerbarhet har blitt særlig tydelig gjennom det som omtales som replikasjonskrisen. Flere forskningsresultater som tidligere ble sett på som gode og etablerte studier har vist seg å være vanskelige å gjenskape senere med nye data[@opensciencecollaboration2015]. På grunn av dette har det blitt skapt spørsmål om hvor robuste de enkelte publiserte forskningsresultatene faktisk er.
 
-Example:
+Open Science Collaboration forsøkte å replikere 100 publiserte psykologistudier. Her viste det seg at en betydelig lavere andel av replikasjonene ga statistisk signifikante resultater enn de opprinnelige studiene[@opensciencecollaboration2015]. Dette viser hvorfor et forskningsresultat ikke nødvendigvis kan bli sett på som robust bare fordi det først har gitt et signifikant resultat.
 
-@gentleman2003 hevder at bla bla bla. Andre mener imidlertid bla bla [@goodman2016b; @ioannidis2005b].
+En mulig årsak til utfordringer med replikerbarhet er publiseringsskjevhet. Dersom studier med statistisk signifikante resultater har en større sannsynlighet for å bli publisert enn studier som ikke kommer med signifikante funn, kan forskningslitteraturen som er tilgjengelig bidra til et skjevt bilde av den faktiske effekten[@iyengar1988b].
 
 ## Diskusjon av forskningsspørsmålet (problemstillingen)
 
