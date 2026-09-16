@@ -71,8 +71,9 @@ Verktøy som Quarto bidrar til å styrke reproduserbarheten ved å samle tekst, 
 
 ## Appendiks A
 
-- Versjon nummer og referanse til R pakken brukt i dokumentet
-- R versjon brukt, med referanse
+**R-versjon:** R version 4.6.1 (2026-06-24). R ble referert i henhold til @R2026
+
+Det ble ikke benyttet eksterne R-pakker i dokumentet.
 
 ## Appendiks B
 
