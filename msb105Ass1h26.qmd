@@ -17,7 +17,7 @@ format:
 #  pdf:
 #    papersize: a4
 bibliography: reproducibility.bib
-abstract: "Et kort sammendrag, en til to avsnitt."
+abstract: "Denne artikkelen diskuterer om reproduserbarhet alene er tilstrekkelig for pålitelig forskning, med særlig blikk på data science. Gjennom en litteraturgjennomgang skilles det mellom reproduserbarhet, replikerbarhet, validitet og generaliserbarhet, og det argumenters for at reproduserbarhet er en nødvendighet men ikke tilstrekkelig forutsetning. Replikasjonskrisen og publisseringsskjevhet trekkes frem som eksempler på hvorfor reproduserbare resultater likevel kan være lite robuste. Videre diskuteres hvordan verktøy som Quarto kan styrke transparens ved å samle tekst, kode og resultater i ett dokument, samtidig som utfordringer knyttet til beregningsmiljø og foskningskultur gjenstår. Artikkelen konkluderer med at pålitelig forskning krever mer enn reproduserbarhet alene."
 ---
 
 ## Introduksjon
@@ -77,5 +77,6 @@ Det ble ikke benyttet eksterne R-pakker i dokumentet.
 
 ## Appendiks B
 
-- Hvordan er KI brukt
-- Husk invitasjon til chat
+- Hvordan er KI brukt:\
+  ChatGPT (GPT-5.6 Sol, OpenAI) ble brukt som et veiledningsverktøy under arbeidet med oppgaven. Tjenesten ble blant annet brukt til veiledning i bruk av Git, GitHub og Quarto, diskusjon av oppgavens struktur og problemstilling, hjelp til å forstå fagbegreper, forslag til relevante kilder og språklige tilbakemeldinger på tekstutkast. Jeg har selv skrevet og bearbeidet den endelige teksten, vurdert hvilke kilder som skulle benyttes og gjort de endelige faglige valgene.
+- <https://chatgpt.com/share/6aaa982a-ae88-83ed-aece-8adf1054012f>
