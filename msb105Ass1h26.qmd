@@ -78,5 +78,6 @@ Det ble ikke benyttet eksterne R-pakker i dokumentet.
 ## Appendiks B
 
 - Hvordan er KI brukt:\
-  ChatGPT (GPT-5.6 Sol, OpenAI) ble brukt som et veiledningsverktøy under arbeidet med oppgaven. Tjenesten ble blant annet brukt til veiledning i bruk av Git, GitHub og Quarto, diskusjon av oppgavens struktur og problemstilling, hjelp til å forstå fagbegreper, forslag til relevante kilder og språklige tilbakemeldinger på tekstutkast. Jeg har selv skrevet og bearbeidet den endelige teksten, vurdert hvilke kilder som skulle benyttes og gjort de endelige faglige valgene.
-- <https://chatgpt.com/share/6aaa982a-ae88-83ed-aece-8adf1054012f>
+  ChatGPT (GPT-5.6 Sol, OpenAI) ble brukt som et veiledningsverktøy under arbeidet med oppgaven. Tjenesten ble blant annet brukt til veiledning i bruk Quarto, diskusjon av oppgavens struktur og problemstilling, hjelp til å forstå fagbegreper, forslag til relevante kilder og språklige tilbakemeldinger på tekstutkast. Jeg har selv skrevet og bearbeidet den endelige teksten, vurdert hvilke kilder som skulle benyttes og gjort de endelige faglige valgene.
+- Vedlagt finner du linken til samtaleloggen med ChatGPT\
+  <https://chatgpt.com/share/6aaa982a-ae88-83ed-aece-8adf1054012f>
