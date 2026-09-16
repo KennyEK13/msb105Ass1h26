@@ -22,9 +22,9 @@ abstract: "Denne artikkelen diskuterer om reproduserbarhet alene er tilstrekkeli
 
 ## Introduksjon
 
-Reproduserbarhet er et viktig prinsipp innen for vitenskaplig forskning, ettersom dette vil gjøre det mulig for andre forskere å bruke de samme dataene og analysemetodene for å undersøke om de oppnår det samme resultatet[@goodman2016b]. At forskningsresultatet kan reproduseres, betyr imidlertid ikke at resultatet nødvendigvis vil kunne bli gjenskapt med nye data eller andre forhold. Dette reiser spørsmål om hvorvidt reproduserbarhet alene er tilstrekkelig for å sikre pålitelige forskningsresultater. Andre faktorer som replikerbarhet, generaliserbarhet og validitet, kan også være sentrale når forskningsresultater skal vurderes.
+Reproduserbarhet er et viktig prinsipp innenfor vitenskaplig forskning, ettersom det gjør det mulig for andre forskere å bruke de samme dataene og analysemetodene for å undersøke om de oppnår det samme resultatet[@goodman2016b]. At forskningsresultatet kan reproduseres, betyr imidlertid ikke at resultatet nødvendigvis vil kunne bli gjenskapt med nye data eller andre forhold. Dette reiser spørsmål om hvorvidt reproduserbarhet alene er tilstrekkelig for å sikre pålitelige forskningsresultater. Andre faktorer som replikerbarhet, generaliserbarhet og validitet, kan også være sentrale når forskningsresultater skal vurderes.
 
-I denne artikkelen vil derfor diskutere om reproduserbarhet er tilstrekkelig, eller om det bør stilles ytterligere krav til vitenskapelig forskning. Videre blir det også diskutert hvordan Quarto kan bidra til reproduserbare forskningsprosesser, i tillegg til hvilke utfordringer som fortsatt gjenstår.
+I denne artikkelen diskuteres det om reproduserbarhet er tilstrekkelig, eller om det bør stilles ytterligere krav til vitenskapelig forskning. Videre blir det også diskutert hvordan Quarto kan bidra til reproduserbare forskningsprosesser, i tillegg til hvilke utfordringer som fortsatt gjenstår.
 
 ## Litteraturgjennomgang
 
@@ -40,7 +40,7 @@ En mulig årsak til utfordringer med replikerbarhet er publiseringsskjevhet. Der
 
 For å redusere slike problemer kan økt åpenhet rundt forskningsprosessen være et viktig tiltak for å styrke reproduserbarheten. Hvis forskere gjør både data, analysemetoder og kode tilgjengelig, vil det være enklere for andre å kontrollere hvordan resultatene er produsert, samt enklere å forsøke å gjenskape analysene[@nosek2015].
 
-Det å gjøre forskningsmaterialet tilgjengelig er imedlertid ikke nødvendigvis tilstrekkelig nok dersom det er vanskelig å forstå hvordan analysen er gjennomført. En reproduserbar forskningsprosess bør derfor gjøre det mulig å følge stegene fra data og analyse helt til det ferdige resultatet[@allaire2020b]. Her kommer digitale verktøy som kombinerer tekst, kode og resultater til god nytte. Et eksempel er Quarto, som gjør det mulig å samle tekst, kode og analyseresultater i samme dokument[@lefoll2026].
+Det å gjøre forskningsmaterialet tilgjengelig er imidlertid ikke nødvendigvis tilstrekkelig nok dersom det er vanskelig å forstå hvordan analysen er gjennomført. En reproduserbar forskningsprosess bør derfor gjøre det mulig å følge stegene fra data og analyse helt til det ferdige resultatet[@allaire2020b]. Her kommer digitale verktøy som kombinerer tekst, kode og resultater til god nytte. Et eksempel er Quarto, som gjør det mulig å samle tekst, kode og analyseresultater i samme dokument[@lefoll2026].
 
 Versjonskontroll er også noe som kan være viktig i en reproduserbar forskningsprosess. Ved å lagre endringer underveis muliggjør det å følge utviklingen i analysen, og se hvilke endringer som er gjort i data, kode og dokumentasjon[@ram2013].
 
