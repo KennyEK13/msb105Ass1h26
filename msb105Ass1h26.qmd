@@ -22,7 +22,8 @@ abstract: "Et kort sammendrag, en til to avsnitt."
 
 ## Introduksjon
 
-Reproduserbarhet er et veldig viktig prinsipp innen for vitenskaplig forskning, ettersom dette vil gjøre det mulig for andre forskere å bruke de samme dataene og analysemetodene for å undersøke om de oppnår det samme resultatet[@goodman2016b]. At forskningsresultatet kan reproduseres, betyr imidlertid ikke at resultatet nødvendigvis vil kunne bli gjenskapt med nye data eller andre forhold. Dette gjør at det blir spørsmål om hvorvidt reproduserbarhet alene er tilstrekkelig for å sikre pålitelige forskningsresultater. Andre faktorer som replikerbarhet, generaliserbarhet og validitet, kan også være sentrale når forskningsresultater skal vurderes. \
+Reproduserbarhet er et viktig prinsipp innen for vitenskaplig forskning, ettersom dette vil gjøre det mulig for andre forskere å bruke de samme dataene og analysemetodene for å undersøke om de oppnår det samme resultatet[@goodman2016b]. At forskningsresultatet kan reproduseres, betyr imidlertid ikke at resultatet nødvendigvis vil kunne bli gjenskapt med nye data eller andre forhold. Dette reiser spørsmål om hvorvidt reproduserbarhet alene er tilstrekkelig for å sikre pålitelige forskningsresultater. Andre faktorer som replikerbarhet, generaliserbarhet og validitet, kan også være sentrale når forskningsresultater skal vurderes.
+
 I denne artikkelen vil derfor diskutere om reproduserbarhet er tilstrekkelig, eller om det bør stilles ytterligere krav til vitenskapelig forskning. Videre blir det også diskutert hvordan Quarto kan bidra til reproduserbare forskningsprosesser, i tillegg til hvilke utfordringer som fortsatt gjenstår.
 
 ## Litteraturgjennomgang
