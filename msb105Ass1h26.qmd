@@ -46,9 +46,17 @@ Versjonskontroll er også noe som kan være viktig i en reproduserbar forsknings
 
 ## Diskusjon av forskningsspørsmålet (problemstillingen)
 
-- Burde replikerbarhet være et krav eller er det å be om for mye?
-- Kan Quarto dokumenter hjelpe med å oppnå reproduserbarhet?
-- Hvilke problem gjenstår og hvordan kan disse løses?
+På bakgrunn av litteraturen ser man tydelig at reproduserbarhet har en viktig rolle i både robust og pålitelig forskning. På den ene siden er reproduserbarhet grunnleggende for at andre skal kunne kontrollere analysen, men samtidig kan det stilles spørsmål om det alene er tilstrekkelig for en pålitelig studie. En analyse kan være perfekt reproduserbar, men samtidig bygge på svake data, ha dårlig validitet eller ikke kunne replikeres ved nye data eller andre forhold.
+
+Samtidig er det verdt å spørre om reproduserbarhet og replikerbarhet bør vurderes som to atskilte krav, eller om de heller bør sees som utfyllende deler av samme kvalitetssikring. Reproduserbarhet sikrer at en analyse er etterprøvbar, mens replikerbarhet sier noe om hvor robust selve funnet er. Uten reproduserbarhet blir det vanskelig å vurdere replikerbarhet i det hele tatt, ettersom man da ikke vet nøyaktig hva den opprinnelige analysen faktisk innebar. I den forstand kan reproduserbarhet forstås som en nødvendig, men ikke tilstrekkelig forutsetning for pålitelig forskning.
+
+Innenfor data science blir dette spørsmålet ekstra aktuelt fordi analysene ofte er komplekse, involverer store datamengder og mange bearbeidingssteg før resultatet foreligger. Små valg underveis som for eksempel hvordan manglende verdier håndteres, kan ha stor innvirkning på resultatet. Dette gjør det viktig at hele arbeidsflyten er dokumentert og tilgjengelig, ikke bare selve konklusjonen.
+
+Her vil verktøy som Quarto spille en sentral rolle. Ved å kombinere tekst, kode og resultater i ett og samme dokument, reduseres risikoen for at det oppstår avvik mellom det som faktisk ble kjørt og det som rapporteres i teksten[@lefoll2026]. Dette bidrar til større grad av transparens, men løser likevel ikke alle utfordringer knyttet til reproduserbarhet. Programversjoner, avhengigheter og beregningsmiljø er faktorer som kan endre seg over tid, slik at en analyse som tidligere fungerte ikke nødvendigvis vil kunne gjentas senere. Dette viser at reproduserbarhet ikke bare handler om å dele kode og data, men også om å sikre at det tekniske miljøet analysen ble utført i, kan gjenskapes.
+
+Videre er det ikke gitt at åpenhet rundt data og kode automatisk fører til at andre faktisk etterpøver analysen. Reproduserbarhet legger til rette for kontroll, men forutsetter samtidig at noen tar seg tid til å gjennomføre denne kontrollen. Dette peker på et bredere problem knyttet til insentivstrukturer i forskning, der publisering av nye resultater ofte verdsettes høyere enn etterprøving av eksisterende funn[@munafò2017].
+
+Litteraturen tyder altså at reproduserbarhet er en nødvendig, men ikke alene tilstrekkelig forutsetning for å drive pålitelig forskning. Skal forskningsresultatet kunne stoles på, må reproduserbarhet suppleres med vurderinger av replikerbarhet, validitet og generaliserbarhet, samt en forskningskultur som faktisk legger til rette for og verdsetter etterprøving.
 
 ## Konklusjon
 
